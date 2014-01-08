@@ -1,4 +1,4 @@
 robotSoccer
 ===========
 
-ECEN 490: Robot Soccer Website
+ECEN 490: Robot Soccer
